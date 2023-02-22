@@ -11,5 +11,4 @@ static string GetStatus(Status status) =>
         _ => "Sem estado"
     };
 
-
 enum Status { Insert, Update, Delete };
